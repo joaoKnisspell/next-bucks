@@ -102,7 +102,7 @@ export default function Home() {
                 })}
               </TransactionsList>
             ) : (
-              <div className="flex h-[208px] w-full max-w-[728px]  items-center justify-center rounded-lg px-4 text-appGray500 shadow-xl">
+              <div className="flex h-[208px] w-full max-w-[728px] items-center  justify-center  rounded-lg px-4 text-appGray500 shadow-xl xl:max-w-[665px] 2xl:max-w-[728px]">
                 <span className="">
                   Your most recent incomes will be displayed here like this
                 </span>
@@ -124,7 +124,7 @@ export default function Home() {
                 })}
               </TransactionsList>
             ) : (
-              <div className="flex h-[208px] w-full max-w-[728px]  items-center justify-center rounded-lg px-4 text-appGray500 shadow-xl">
+              <div className="flex h-[208px] w-full max-w-[728px] items-center  justify-center  rounded-lg px-4 text-appGray500 shadow-xl xl:max-w-[665px] 2xl:max-w-[728px]">
                 <span>
                   Your most recent expenses will be displayed here like this
                 </span>
