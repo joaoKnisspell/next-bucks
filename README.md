@@ -1,4 +1,4 @@
-![Logo do projeto](https://i.imgur.com/xpOIFvc.jpg)
+![Logo do projeto](https://i.imgur.com/UaZHHEB.jpg)
 # Next Bucks
 
 Seja bem-vindo Next Bucks. Cadastre-se agora para gerenciar de maneira simples e rápida suas finanças.
@@ -14,11 +14,7 @@ A aplicação <strong>Next Bucks</strong> foi desenvolvida com o propósito de c
 
 ## ⚙️ Tecnologias utilizadas
 ### Front-End:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Back-End:
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
