@@ -1,4 +1,4 @@
-![Logo do projeto](https://i.imgur.com/UaZHHEB.jpg)
+![Logo do projeto](https://i.imgur.com/ZlAaR69.png)
 # Next Bucks
 
 Seja bem-vindo Next Bucks. Cadastre-se agora para gerenciar de maneira simples e rápida suas finanças.
