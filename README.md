@@ -10,6 +10,7 @@ A aplicação <strong>Next Bucks</strong> foi desenvolvida com o propósito de c
 * Página de goals com a listagem de metas do usuário;
 * Página de cadastro de novas transações;
 * Página de cadastro de novas metas;<br>
+
 <strong>Observação:</strong> Para estabelecer o banco de dados e implementar o método de autenticação com o Google, escolhi empregar a plataforma Google Firebase devido à sua simplicidade e eficiência notáveis.<br>
 
 ## ⚙️ Tecnologias utilizadas
